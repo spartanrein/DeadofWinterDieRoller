@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dead of Winter Die Roller</string>
+    <string name="instruction_text">Press and hold anywhere on the screen to roll!</string>
 </resources>
